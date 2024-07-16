@@ -6,11 +6,11 @@
 </p>
 <p align="center">
  💎 💎 💎 </br>
- Let's coding every day, Learn every time.<br>
+ Let's code every day and learn every time.<br>
  Let's go beyond our limits<br>
 </p>
 
-## Hi 👋,Blockchain Expert, Fullstack Developer!
+## Hi 👋, Blockchain Expert, Fullstack Developer!
 
 Main Skills:
 - AI Bot, Open AI, Machine Learning, Embedding and Finetuning
@@ -19,11 +19,11 @@ Main Skills:
 - NodeJS, NestJS, PHP, Django, Ruby on Rails, ASP.NET
 - MySǪL, MongoDB, DynamoDB. PostgreSǪL
 - Flutter, React Native, Swift, Java
-- Matrial UI, Metronic, MDB React, Bootstrap, AntD
+- Material UI, Metronic, MDB React, Bootstrap, AntD
 - Tailwind CSS, Vuetify, SCSS
 - Stripe, AWS, GCP, Firebase, CI/CD, ǪA Testing, GraphǪL, Docker, Git, Jira, Vercel, Netlify
 
-I'm full time developer. Please contact me at jamesryo310@gmail.com
+I'm a full-time developer. Please contact me at jamesryo310@gmail.com
 
 <a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUTkOMMxAzpXYUG-r4lzXljg1lY41IfDoUA&usqp=CAU" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
 
